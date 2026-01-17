@@ -57,6 +57,8 @@ This design balances **automation** with **business predictability**.
 | LocalName | Local holiday name |
 | Year | Calendar year |
 
+![Example Output](image.png)
+
 ---
 
 ## Country Scope & Extensibility
